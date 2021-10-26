@@ -1,0 +1,13 @@
+# Ignore Intellij files
+.idea/
+*.iml
+*.iws
+
+# Ignore build files
+build/
+
+# Ignore Gradle files
+.gradle/
+
+# Ignore doc files
+src/main/docs/

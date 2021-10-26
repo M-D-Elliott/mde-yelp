@@ -1,0 +1,4 @@
+YELP_KEY=YOUR_YELP_DEV_API_KEY
+YELP_REVIEWS_EP=https://api.yelp.com/v3/businesses/BUSINESS_ID_FOR_ENDPOINT/reviews
+VISION_KEY=YOUR_GOOGLE_VISION_API_KEY
+VISION_EP=https://vision.googleapis.com/v1/images:annotate?
